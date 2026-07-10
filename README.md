@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/archit2610/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/archit2610/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/archit2610/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/archit2610/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/archit2610/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/archit2610/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/archit2610/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/archit2610/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/archit2610/LeetCode/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/archit2610/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/archit2610/LeetCode/tree/master/0867-transpose-matrix) |
 ## Union-Find
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/archit2610/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/archit2610/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/archit2610/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
