@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/archit2610/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/archit2610/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/archit2610/LeetCode/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/archit2610/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/archit2610/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/archit2610/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/archit2610/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/archit2610/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/archit2610/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/archit2610/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/archit2610/LeetCode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/archit2610/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/archit2610/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/archit2610/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/archit2610/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/archit2610/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/archit2610/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
