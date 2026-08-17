@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/archit2610/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0853-car-fleet](https://github.com/archit2610/LeetCode/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/archit2610/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/archit2610/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/archit2610/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archit2610/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/archit2610/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/archit2610/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Simulation
 |  |
 | ------- |
