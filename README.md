@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/archit2610/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/archit2610/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/archit2610/LeetCode/tree/master/0567-permutation-in-string) |
+| [3110-score-of-a-string](https://github.com/archit2610/LeetCode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
