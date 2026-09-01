@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/archit2610/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/archit2610/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/archit2610/LeetCode/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/archit2610/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/archit2610/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/archit2610/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/archit2610/LeetCode/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/archit2610/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [3110-score-of-a-string](https://github.com/archit2610/LeetCode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/archit2610/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/archit2610/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/archit2610/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/archit2610/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Simulation
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/archit2610/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/archit2610/LeetCode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/archit2610/LeetCode/tree/master/0707-design-linked-list) |
+| [0981-time-based-key-value-store](https://github.com/archit2610/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
