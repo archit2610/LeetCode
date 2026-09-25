@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/archit2610/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/archit2610/LeetCode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/archit2610/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/archit2610/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/archit2610/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/archit2610/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/archit2610/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0853-car-fleet](https://github.com/archit2610/LeetCode/tree/master/0853-car-fleet) |
+| [1096-brace-expansion-ii](https://github.com/archit2610/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/archit2610/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/archit2610/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/archit2610/LeetCode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/archit2610/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/archit2610/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/archit2610/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3110-score-of-a-string](https://github.com/archit2610/LeetCode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/archit2610/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/archit2610/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/archit2610/LeetCode/tree/master/0853-car-fleet) |
+| [1096-brace-expansion-ii](https://github.com/archit2610/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/archit2610/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/archit2610/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/archit2610/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/archit2610/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/archit2610/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/archit2610/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
